@@ -9,14 +9,46 @@
 
    }
 
+.foto1{
+    background:url('assets/img/man.jpg') no-repeat center ;  
+    /* background-image: url(../src/assets/img/landscape.jpg) no-repeat; */
+    /* background-color: yellow; //doesnt work  */
+    color: white;
+
+    height: 300pt;
+    
+
+}
+
+.foto2{
+    background:url('assets/img/snow.jpg') no-repeat center;  
+    /* background-image: url(../src/assets/img/landscape.jpg) no-repeat; */
+    /* background-color: yellow; //doesnt work  */
+    color: white;
+}
+.foto3{
+    background:url('assets/img/person.jpg') no-repeat center center;  
+    /* background-image: url(../src/assets/img/landscape.jpg) no-repeat; */
+    /* background-color: yellow; //doesnt work  */
+    color: white;
+}
+.foto4{
+    background:url('assets/img/mountain.jpg') no-repeat center center;  
+    /* background-image: url(../src/assets/img/landscape.jpg) no-repeat; */
+    /* background-color: yellow; //doesnt work  */
+    color: white;
+}
+
 .winter{
     background-color: lightblue;
 }
 
 .summer{
-    background-color: yellowgreen;
+    background:url('assets/img/landscape.jpg') no-repeat center center;  
+    /* background-image: url(/src/assets/img/people.png);  */
+    /* // background-color: yellowgreen;  */
 }
 
-body{
+/* body{
     background-color: grey;
-}
+} */
